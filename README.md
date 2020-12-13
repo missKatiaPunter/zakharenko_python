@@ -1,5 +1,7 @@
 # Frontend Masters intro to Python course and notes
 
+## Helpful REPL methods
+
 ```py
 help(str)
 type(var_name)
