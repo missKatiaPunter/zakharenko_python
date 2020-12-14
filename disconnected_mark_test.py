@@ -6,7 +6,7 @@ import pytest
 def test_method1():
     x=3
     y=7
-    assert x==y
+    assert x!=y
 
 # To run: py.test -m second_mark
 # The result is: 1 passed, 2 deselected, 2 warnings in 0.01s
