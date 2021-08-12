@@ -1,3 +1,5 @@
+`pytest /path-to-file/::name_of_test`
+
 # Frontend Masters intro to Python course and notes
 
 ## Helpful REPL methods
